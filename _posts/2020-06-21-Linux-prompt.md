@@ -5,7 +5,7 @@ date:   2020-06-21 15:36:45 +0300
 categories: Linux
 ---
 
-Lets break down prompt.
+Let's break down prompt.
 
 ```
 morty@c137:~$
@@ -17,7 +17,7 @@ c137      - computer name
 $         - represent regular user
 ```
 
-The root user.
+The root user's prompt:
 
 ```
 root@c137:~#

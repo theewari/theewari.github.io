@@ -13,12 +13,12 @@ Directory structure explained here.
         boot            : it contains everything that OS system need to boot
         dev             : devices, hardware
         etc             : system configuration files
-        home            : use home
+        home            : user home directory
         lib             : libraries
         lost + found    : recovered files
         media           : mount point for removable media (cdrom)
         mnt             : mount point for temporary file system
-        opt             : third party software (Applications that are not part of the base OS, can be installed in "/usr/local" or "/opt")
+        opt             : third party software (Applications that are not part of the base OS, it can be installed in "/usr/local" or "/opt")
         srv             : data for the special provide by system
         tmp             : temporary storage space
         usr/            : unique system resource, user application source, image, etc..

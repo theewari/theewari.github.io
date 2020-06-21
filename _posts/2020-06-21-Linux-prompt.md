@@ -5,7 +5,7 @@ date:   2020-06-21 15:36:45 +0300
 categories: Linux
 ---
 
-Details of prompt.
+Lets break down prompt.
 
 ```
 morty@c137:~$

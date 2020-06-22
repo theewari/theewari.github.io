@@ -7,17 +7,18 @@ categories: Linux
 
 Basic commands in Linux.
 
-```
+
 `pwd` ; It shows present working directory 
             morty@c137:~$ `pwd`
             /home/morty
-```
 
-```
+
+
 `cd` , `cd ~` ; Change current directory to your home directory
                     morty@c137:~/Documents$ `cd` or `cd ~`
                     morty@c137:~$
-```                    
+                    
+
 
 
 

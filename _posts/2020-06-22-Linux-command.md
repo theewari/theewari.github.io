@@ -43,7 +43,36 @@ morty@c137:~$ cd /home
 morty@c137:/home$
 ```
 
+`cd (directory name)` : Change current directory to naming directory in your account
+     
+```
+ morty@c137:~$ cd Documents
+ morty@c137:~/Documents$
+ ```
 
+`cd (directory name)/(directory name)` : Navigating through multiple directories
+
+```
+morty@c137:~$ cd Pictures/Wallpapers
+morty@c137:~/Pictures/Wallpapers$
+```
+
+`cd ..` : Moving up one directory level
+
+```
+morty@c137:~/Pictures/Wallpapers$ cd ..
+morty@c137:~/Pictures$ cd ..
+morty@c137:~$
+```
+
+`cd .` : Current directory level
+
+```
+morty@c137:~$ cd Pictures/Wallpapers
+morty@c137:~/Pictures/Wallpapers$ cd ..
+morty@c137:~/Pictures$ cd .
+morty@c137:~/Pictures$
+```
 
 
 

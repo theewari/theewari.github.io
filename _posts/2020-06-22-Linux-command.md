@@ -29,7 +29,7 @@ morty@c137:~/Documents$ cd ~
 morty@c137:~$
 ```
 
-`cd /` : Change current directory to root directory
+`cd /` : Change current directory to <span style="color:blue">root</span> directory
 
 ```
 morty@c137:~$ cd /

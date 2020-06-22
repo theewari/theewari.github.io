@@ -29,6 +29,22 @@ morty@c137:~/Documents$ cd ~
 morty@c137:~$
 ```
 
+`cd /` : Change current directory to root directory
+
+```
+morty@c137:~$ cd /
+morty@c137:/$
+```
+
+`cd /(directory name)` : Change your current directory to naming directory in root
+
+```
+morty@c137:~$ cd /home
+morty@c137:/home$
+```
+
+
+
 
 
 

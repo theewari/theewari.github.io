@@ -20,12 +20,15 @@ Desktop       - directory or file name
 ```
 
 `drwxr-xr-x 2 morty morty 4096 May 17 20:48 Desktop` 
+
 `d` : is for directory
 
 `-rw-rw-r-- 2 morty morty 1147 May 24 12:51 test`
+
 `-` : is for regular files. Like test file, compiled program, video anything
 
 `lrwxrwxrwx 1 morty morty    4 May 25 14:41 test2 -> test`
+
 `l` : is for soft link
 
 

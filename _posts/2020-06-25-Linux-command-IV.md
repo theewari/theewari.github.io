@@ -32,15 +32,17 @@ morty@c137:~$ ls newdir/subdir
 morty@c137:~$
 ```
 
-rm -i *
-    Removing all files from the current directory, but ask for the permission one by one.
-    morty@c137:~/newdir/subdir$ rm -i *
+`rm -i *` : Removing all files from the current directory, but ask for the permission one by one.
+
+```
+morty@c137:~/newdir/subdir$ rm -i *
 rm: remove regular empty file 'testfile1'? y
 rm: remove regular empty file 'testfile2'? y
 rm: remove regular empty file 'testfile3'? y
 rm: remove regular empty file 'testfile4'? y
 rm: remove regular empty file 'testfile5'? y
 morty@c137:~/newdir/subdir$
+```
 
 `mv rm -f *` : Removing all files from the current directory without asking.
 

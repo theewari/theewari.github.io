@@ -23,4 +23,4 @@ The root user's prompt:
 root@c137:~#
 ```
 
-`#` sign for root user, this is not the root of the file system “(`/`)”. This is an user account with all the privileges.
+`#` sign for root user, this is not the root of the file system `/`. This is an user account with all the privileges.

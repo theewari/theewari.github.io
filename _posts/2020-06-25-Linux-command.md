@@ -14,11 +14,11 @@ bin  Desktop  Documents  Downloads  IdeaProjects  Music  Pictures  Public  snap 
 
 `ls -r` : List directories and files Z to A
 
-`ls -a` : Shows all directories and files with the hidden files.(hidden file appear  with a `.` or `..`)
+`ls -a` : Shows all directories and files with the hidden files. Hidden files appear  with a `.` or `..`
 
-`ls -t` : List by time.newest to oldest
+`ls -t` : List by time. Newest to oldest
 
-`ls -tr` : List by time.oldest to newest
+`ls -tr` : List by time. Oldest to newest
 
 `ls (directory name)/(directory name)` : Shows list of naming directory
 

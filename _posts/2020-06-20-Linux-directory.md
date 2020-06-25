@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linux directory structure"
+title:  "Linux Directory Structure"
 date:   2020-06-20 22:30:45 +0300
 categories: Linux
 ---

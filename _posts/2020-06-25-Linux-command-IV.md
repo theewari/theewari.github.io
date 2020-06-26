@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding Linux Basic Commands - Part IV"
+title:  "Linux Basic Commands - Part IV"
 date:   2020-06-25 19:08:45 +0300
 categories: Linux
 ---

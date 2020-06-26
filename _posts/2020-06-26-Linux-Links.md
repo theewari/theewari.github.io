@@ -39,7 +39,7 @@ morty@c137:~$ ls -i
 2759545 test2   2759449 test3   2759449 test                 
  ```
        
-1.  Doesn`t depend on original file
+1.  Doesn't depend on original file
 
 2.  Hard link has a same inode to the inode of original
 
@@ -49,7 +49,7 @@ morty@c137:~$ ls -i
 
 5.  Linking in same file system
 
-6.  Hard link can`t link
+6.  Hard link can't link directory
 
 
 

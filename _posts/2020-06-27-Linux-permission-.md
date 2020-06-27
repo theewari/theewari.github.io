@@ -66,13 +66,13 @@ r--   +   --x   =   r-x
  2    +    1    =    3
 ```
 
-There are one special permission. The permission to set the permission. It always belongs to the owner of the file.
+Only owner can change the ownership
 
 `sudo` 
 
-In the Linux, administrative user is called Root. Root own the system. When we want to do somethings, we need Root permission. In that time we need to do `sudo` command.
+In the Linux, administrative user is called root. root own the system. Some programs need root permission. In that time we need to do `sudo` command.
 
-Root is the super user. That `sudo` command meaning is “do as super user.”
+root is the super user. That `sudo` command meaning is “do as super user.”
 
 When you run `sudo` command it will ask for your password. After you giving your password it can be use fifteen minutes.
 

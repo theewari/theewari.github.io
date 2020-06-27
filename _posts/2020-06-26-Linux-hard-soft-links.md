@@ -19,13 +19,11 @@ morty@c137:~$ ls -i
 
 2.  Soft link has a different inode from inode of original 
 
-3.  Linking file to directory
+3.  Linking existing file to new file
 
-4.  Linking exist file to new file
+4.  Linking between different  file system
 
-5.  Linking between different  file system
-
-6.  Linking a directory to another directory  
+5.  Linking a directory to another directory  
 
 
 
@@ -43,13 +41,11 @@ morty@c137:~$ ls -i
 
 2.  Hard link has a same inode to the inode of original
 
-3.  Linking file to directory
+3.  Linking existing file to new file
 
-4.  Linking exist file to new file
+4.  Linking in same file system
 
-5.  Linking in same file system
-
-6.  Hard link can't link directory
+5.  Hard link can't link directory
 
 
 

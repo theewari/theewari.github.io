@@ -5,6 +5,8 @@ date:   2020-06-27 16:16:45 +0300
 categories: Linux
 ---
 
+Let's find out what is the permission in Linux,
+
 ```
 d rwx rwx rwx
 ```
@@ -65,6 +67,23 @@ r--   +   --x   =   r-x
 ```
 
 There are one special permission. The permission to set the permission. It always belongs to the owner of the file.
+
+`sudo` 
+
+In the Linux, administrative user is called Root. Root own the system. When we want to do somethings, we need Root permission. In that time we need to do `sudo` command.
+
+Root is the super user. That `sudo` command meaning is “do as super user.”
+
+When you run `sudo` command it will ask for your password. After you giving your password it can be use fifteen minutes.
+
+```
+morty@c137:~$ sudo ls /home
+[sudo] password for morty:
+morty  rick
+```
+
+
+
 
 
 

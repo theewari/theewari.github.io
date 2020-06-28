@@ -34,7 +34,7 @@ Directory structure explained here.
             tmp         : long term or large temporary files
 ```
 
-`tree /` is command to get tree of root, `tree / -L 1` is command to get level 1 of root. just `tree` is command to get tree of your account.
+`tree /` is the command to get a tree of the root, `tree / -L 1` is the command to get level 1 of the root. 
 
 ```console
 $ tree / -L 1

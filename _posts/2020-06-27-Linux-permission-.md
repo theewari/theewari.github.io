@@ -70,14 +70,14 @@ Only owner can change the ownership
 
 `sudo` 
 
-In the Linux, administrative user is called root. root own the system. Some programs need root permission. In that time we need to do `sudo` command.
+In Linux, the administrative user is called root. The root user owns the system. Some programs need root user permission. In that time we need to do `sudo` command.
 
 root is the super user. That `sudo` command meaning is “do as super user.”
 
 When you run `sudo` command it will ask for your password. After you giving your password it can be use fifteen minutes.
 
 ```
-morty@c137:~$ sudo ls /home
+morty@c137:~$ sudo ls /root
 [sudo] password for morty:
 morty  rick
 ```

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Soft Link and Hard Links in Linux"
+title:  "Soft Link and Hard Link in Linux"
 date:   2020-06-26 12:14:45 +0300
 categories: Linux
 ---

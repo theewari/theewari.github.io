@@ -9,7 +9,7 @@ To declare a whole number in java, use `int` as the keyword. We should assign  t
 ```java
 package variables.Variables;
 
-public class Int {
+public class IntSample {
 
     public static void main(String[] args) {
 	// write your code here
@@ -32,7 +32,7 @@ public class Int {
 
 The `int` can store 32 bits. From (-2 ^ 31) to (2 ^ 31)  -  1
 
-The `int` can’t store long numbers. At that time you need `long` keyword. You should type `L` after the number.
+The `int` can’t store long numbers. At that time you need `long` as the keyword. You should type `L` after the number.
 
 `long`  can store 64 bits. From (-2 ^ 63) to (2 ^ 63) - 1
 

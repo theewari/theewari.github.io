@@ -6,7 +6,7 @@ categories: Java
 ---
 To declare a whole number in java, use `int` as the keyword. We should assign  the name and volume to the `int`. That assigning called initialization. 
 
-```
+```java
 package variables.Variables;
 
 public class Int {

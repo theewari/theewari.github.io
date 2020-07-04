@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Integer Variable in Java"
+title:  "Integer Variable Type In Java"
 date:   2020-07-04 23:06:45 +0300
 categories: Java
 ---

@@ -25,7 +25,6 @@ public class IntSample {
         long c = 2147483648L;
 
         System.out.println(c);
-
     }
 }
 ```

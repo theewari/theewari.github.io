@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Character Variable Type In Java"
+title:  "Floating Variable Type In Java"
 date:   2020-07-08 17:16:45 +0300
 categories: Java
 ---

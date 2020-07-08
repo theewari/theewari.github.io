@@ -30,11 +30,8 @@ public class TheCharecter {
         String name = "Dedunu";
         String surname = "Uduwewelage";
 
-        System.out.println(name + " " + surname);
-        
+        System.out.println(name + " " + surname);       
     }
-
-
 }
 ```
 

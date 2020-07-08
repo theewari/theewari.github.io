@@ -32,11 +32,7 @@ public class TheFloating {
         System.out.println(iNumber);
         System.out.println(fNumber);
         System.out.println(dNumber);
-
-
-
     }
-
 }
 
 ```

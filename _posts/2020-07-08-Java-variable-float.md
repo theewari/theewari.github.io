@@ -34,5 +34,4 @@ public class TheFloating {
         System.out.println(dNumber);
     }
 }
-
 ```

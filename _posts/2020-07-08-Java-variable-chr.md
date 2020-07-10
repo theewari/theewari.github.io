@@ -15,6 +15,8 @@ The `string` is the keyword to store many characters.
 
 You should type the `string` between two double quotation marks. `(“”)` 
 
+We can combine strings with a plus `+`
+
 ```java
 
 package variables.Variables;

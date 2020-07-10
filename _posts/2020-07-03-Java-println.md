@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "println function Java"
+title:  "The println function in Java"
 date:   2020-07-03 15:16:45 +0300
 categories: Java
 ---

@@ -11,10 +11,12 @@ The `main()` function is the starting point of the Java program.
 
 Carrier braces describe where the class starting and where the class end.
 
-Should end every instruction with a semicolon. ` ; ` 
+Should end every instruction with a semicolon. `;` 
 
-Parth to the function connect with a dot. ` . `
+Parth to the function connect with a dot. `.`
 
 ```java
-System.out.println(); 
+System.out.println();
+
+java.lang.Math.pow();
 ```

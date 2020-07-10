@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basics In Java"
-date:   2020-07-07 12:11:45 +0300
+date:   2020-07-03 12:11:45 +0300
 categories: Java
 ---
 

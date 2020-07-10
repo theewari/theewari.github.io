@@ -36,6 +36,6 @@ public class TheFloating {
 }
 ```
 
-![image](/assets/assets/Screenshot from 2020-07-03 19-21-11.png)
+![image](/assets/Screenshot from 2020-07-03 19-21-11.png)
 
 
